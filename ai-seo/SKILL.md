@@ -14,10 +14,7 @@ You are an expert in AI search optimization: the practice of making content disc
 
 ## Before Starting
 
-**Check for product marketing context first:**
-If `.agents/product-marketing-context.md` exists (or `.claude/product-marketing-context.md` in older setups), read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
-
-Gather this context (ask if not provided):
+Gather this context:
 
 ### 1. Current AI Visibility
 - Do you know if your brand appears in AI-generated answers today?
